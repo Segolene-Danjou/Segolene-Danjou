@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+
+Feel free to checkout my different projects !  
+
+---
+
+You can contact me via \
+👩‍💼[LinkedIn](https://www.linkedin.com/in/segolene-danjou/)\
+📧[email](mailto:segolene.danjou@gmail.com)
+
+---
+
+Have a great day 🌄
 
 <!--
 **Segolene-Danjou/Segolene-Danjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
